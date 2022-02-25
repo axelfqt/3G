@@ -9,7 +9,7 @@ utilisé :
 * Git (https://git-scm.com/downloads)
 * Laragon (https://laragon.org/download/)
 
-CSS : mobile first.
+CSS : mobile first
 
 ## Description
 
